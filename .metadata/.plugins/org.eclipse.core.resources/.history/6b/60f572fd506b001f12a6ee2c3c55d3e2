@@ -1,0 +1,18 @@
+package edu.kh.oop.practice.model.vo;
+
+public class Book {
+	// 필드
+	private String title;
+	private int price;
+	private double discountRate;
+	private String author;
+	
+	// 생성자
+	public Book() {
+		
+	}
+	
+	
+	
+	// 메서드
+}

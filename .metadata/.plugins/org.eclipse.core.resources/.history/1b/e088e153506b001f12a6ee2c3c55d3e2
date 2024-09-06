@@ -1,0 +1,9 @@
+package edu.kh.oop.practice.model.vo;
+
+public class Book {
+	// 필드
+	
+	// 생성자
+	
+	// 메서드
+}

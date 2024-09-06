@@ -1,0 +1,35 @@
+package edu.kh.oop.practice.model.service;
+
+import edu.kh.oop.practice.model.vo.Hero;
+
+public class HeroService {
+
+	public void practice() {
+		
+		
+		Hero h1 = new Hero("이구역짱","전사",200,20,1,0);
+		Hero h2 = new Hero("Zi존위자드","마법사",100,100,1,0);
+
+		System.out.printf("======= %s 시점 =======\n", h1.getNickname());
+		System.out.printf("'%s'은/는 공격을 했다!!! 현재 경험치 : %1s\n", h1.getNickname(), h1.getExp());
+		System.out.printf("'%s'은/는 공격을 했다!!! 현재 경험치 : %1s\n", h1.getNickname(), h1.getExp());
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

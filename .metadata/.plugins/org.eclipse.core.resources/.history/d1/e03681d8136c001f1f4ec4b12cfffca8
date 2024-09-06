@@ -1,0 +1,11 @@
+package edu.kh.oop.method.run;
+
+import edu.kh.oop.method.model.vo.Member;
+
+public class MemberRun {
+public static void main(String[] args) {
+	Member op = new Member(); 
+	op.ex1();
+	
+}
+}

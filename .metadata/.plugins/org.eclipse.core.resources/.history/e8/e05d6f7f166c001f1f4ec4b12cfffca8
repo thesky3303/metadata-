@@ -1,0 +1,17 @@
+package edu.kh.oop.method.model.vo;
+
+public class Member { // 속성 + 기능
+	
+	// 필드
+	private String memberId; // 아이디
+	private String memberPw; // 비밀번호
+	private String memberName; // 이름
+	private int memberAge; // 나이
+	
+	
+	
+	// 생성자
+	
+	// 메서드
+
+}

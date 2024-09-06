@@ -1,0 +1,11 @@
+package edu.kh.oop.practice.run;
+
+import edu.kh.oop.cls.model.service.ClsService;
+
+public class PracticeRun {
+	public static void main(String[] args) {
+		BookService service = new BookService();
+		service.ex1();
+	}
+
+}
